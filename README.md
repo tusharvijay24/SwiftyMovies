@@ -87,7 +87,3 @@ The project includes basic unit tests in the `SwiftyMoviesTests` directory. To r
 1. Open the project in Xcode.
 2. Select the `Product` menu.
 3. Choose `Test` (or press `Cmd+U`).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
