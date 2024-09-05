@@ -1,7 +1,3 @@
-It looks like the project is an iOS application named **SwiftyMovies**. Based on the file structure, it includes various components such as controllers, models, and web server helpers, as well as a `Pods` folder, which suggests it uses CocoaPods for dependency management. Here's a README file based on the general structure and assumed functionality of the project:
-
----
-
 # SwiftyMovies
 
 SwiftyMovies is an iOS application that provides users with information about movies, including movie details, ratings, and search functionality.
